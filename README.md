@@ -34,7 +34,7 @@ Please cite our paper if the code is used in your research:
 ```
 @article{li2025cltr,
   title={CLTR: Continual Learning Time-varying Regularization for Robust Classification of Noisy Label Images},
-  author={Li, Yanhong and Guo, Zhiqing and Wang, Liejun},
+  author={Yanhong Li, Zhiqing Guo, and Liejun Wang},
   journal={Pattern Recognition},
   year={2025}
 }
