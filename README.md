@@ -32,7 +32,7 @@ python main.py --dataset cifar10 --noise_type symmetric --noise_rate 0.2
 ## Citation
 Please cite our paper if the code is used in your research:
 ```
-@article{he2025cltr,
+@article{li2025cltr,
   title={CLTR: Continual Learning Time-varying Regularization for Robust Classification of Noisy Label Images},
   author={Li, Yanhong and Guo, Zhiqing and Wang, Liejun},
   journal={Pattern Recognition},
